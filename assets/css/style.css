@@ -10885,7 +10885,8 @@ a.link-on-bg:hover {
 
 .theme-bg-primary {
     background-color: #41A4F5;
-    background-image: url(../../assets/images/header.jpg)
+    background-image: url(../../assets/images/header.jpg);
+    background-repeat: round
 }
 
 .theme-bg-primary-darken {
